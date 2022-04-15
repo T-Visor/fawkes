@@ -15,6 +15,11 @@ Copyright
 ---------
 This code is intended only for personal privacy protection or academic research.
 
+Requirements
+------------
+* Python 3.8
+* Python modules in 'requirements.txt'
+
 Usage
 -----
 
