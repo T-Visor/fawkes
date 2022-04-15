@@ -2,7 +2,7 @@ from glob import glob
 import sys
 import subprocess
 
-subdirectories = glob('images/*/', recursive = True)
+subdirectories = glob('imgs/*/', recursive = True)
 
 print('===FOLDERS FOUND===')
 for folder in subdirectories:
